@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\ASP.NET API\Class04\NotesApp\NotesApp.DataAccess\bin\Debug\net8.0\NotesApp.DataAccess.deps.json
+C:\Users\code\Desktop\ASP.NET API\Class04\NotesApp\NotesApp.DataAccess\bin\Debug\net8.0\NotesApp.DataAccess.dll
+C:\Users\code\Desktop\ASP.NET API\Class04\NotesApp\NotesApp.DataAccess\bin\Debug\net8.0\NotesApp.DataAccess.pdb
+C:\Users\code\Desktop\ASP.NET API\Class04\NotesApp\NotesApp.DataAccess\bin\Debug\net8.0\NotesApp.Domain.dll
+C:\Users\code\Desktop\ASP.NET API\Class04\NotesApp\NotesApp.DataAccess\bin\Debug\net8.0\NotesApp.Domain.pdb
+C:\Users\code\Desktop\ASP.NET API\Class04\NotesApp\NotesApp.DataAccess\obj\Debug\net8.0\NotesApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\code\Desktop\ASP.NET API\Class04\NotesApp\NotesApp.DataAccess\obj\Debug\net8.0\NotesApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\ASP.NET API\Class04\NotesApp\NotesApp.DataAccess\obj\Debug\net8.0\NotesApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\ASP.NET API\Class04\NotesApp\NotesApp.DataAccess\obj\Debug\net8.0\NotesApp.DataAccess.AssemblyInfo.cs
+C:\Users\code\Desktop\ASP.NET API\Class04\NotesApp\NotesApp.DataAccess\obj\Debug\net8.0\NotesApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\ASP.NET API\Class04\NotesApp\NotesApp.DataAccess\obj\Debug\net8.0\NotesApp.73F963E7.Up2Date
+C:\Users\code\Desktop\ASP.NET API\Class04\NotesApp\NotesApp.DataAccess\obj\Debug\net8.0\NotesApp.DataAccess.dll
+C:\Users\code\Desktop\ASP.NET API\Class04\NotesApp\NotesApp.DataAccess\obj\Debug\net8.0\refint\NotesApp.DataAccess.dll
+C:\Users\code\Desktop\ASP.NET API\Class04\NotesApp\NotesApp.DataAccess\obj\Debug\net8.0\NotesApp.DataAccess.pdb
+C:\Users\code\Desktop\ASP.NET API\Class04\NotesApp\NotesApp.DataAccess\obj\Debug\net8.0\ref\NotesApp.DataAccess.dll

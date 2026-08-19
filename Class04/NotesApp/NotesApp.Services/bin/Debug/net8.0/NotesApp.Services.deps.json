@@ -1,0 +1,90 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NotesApp.Services/1.0.0": {
+        "dependencies": {
+          "NotesApp.DataAccess": "1.0.0",
+          "NotesApp.Dtos": "1.0.0",
+          "NotesApp.Mappers": "1.0.0"
+        },
+        "runtime": {
+          "NotesApp.Services.dll": {}
+        }
+      },
+      "NotesApp.DataAccess/1.0.0": {
+        "dependencies": {
+          "NotesApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "NotesApp.DataAccess.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "NotesApp.Domain/1.0.0": {
+        "runtime": {
+          "NotesApp.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "NotesApp.Dtos/1.0.0": {
+        "dependencies": {
+          "NotesApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "NotesApp.Dtos.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "NotesApp.Mappers/1.0.0": {
+        "dependencies": {
+          "NotesApp.Domain": "1.0.0",
+          "NotesApp.Dtos": "1.0.0"
+        },
+        "runtime": {
+          "NotesApp.Mappers.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotesApp.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NotesApp.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NotesApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NotesApp.Dtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NotesApp.Mappers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

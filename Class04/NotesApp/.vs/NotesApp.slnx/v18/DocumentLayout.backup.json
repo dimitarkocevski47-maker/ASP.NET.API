@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\code\\Desktop\\ASP.NET API\\Class04\\NotesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{196E314A-B731-5048-AEE5-76F3EE87D5F2}|NotesApp\\NotesApp.csproj|c:\\users\\code\\desktop\\asp.net api\\class04\\notesapp\\notesapp\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196E314A-B731-5048-AEE5-76F3EE87D5F2}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\ASP.NET API\\Class04\\NotesApp\\NotesApp\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "NotesApp\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\ASP.NET API\\Class04\\NotesApp\\NotesApp\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "NotesApp\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T17:20:36.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
